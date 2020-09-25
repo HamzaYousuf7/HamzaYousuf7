@@ -9,7 +9,8 @@
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
-
+<br>
+<br>
 ### Connect with me:
 <a href="#">
    <img align="left" alt="Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
