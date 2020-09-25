@@ -9,3 +9,7 @@
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
+### Connect with me:
+
+<a href="https://twitter.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
+<a href="https://linkedin.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
