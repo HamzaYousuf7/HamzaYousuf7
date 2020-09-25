@@ -14,6 +14,7 @@
 <a href="https://twitter.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a>
 <a href="https://linkedin.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
 
+### Languages and Tools:
 <p align="center">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/css.svg" alt="html" style="vertical-align:top; margin:4px">
