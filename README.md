@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Yousuf</h1>
-<h3 align="center">A self-taught programmer love to code.</h3>
+<h3 align="center">A self-taught programmer, love to code.</h3>
 
 
 
@@ -27,9 +27,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br>
-<br>
-<br>
+
 
 
 ![Hamza Yousuf Github Stats](https://github-readme-stats.vercel.app/api?username=HamzaYousuf7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
