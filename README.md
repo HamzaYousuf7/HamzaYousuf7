@@ -15,13 +15,10 @@
    <img align="left" alt="Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="hamzayousuf175@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
   <a href="#">
-    <img align="left" alt="Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  <a href="#">
-    <img align="left" alt="Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+    <img align="left" alt="Instagram" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
 <br>
 
