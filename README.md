@@ -12,16 +12,16 @@
 
 ### Connect with me:
 <a href="#">
-   <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+   <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="hamzayousuf175@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  <a href="#">
+    <img align="left" alt="Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
    <a href="https://stackoverflow.com/users/13701584/hamza">
-    <img align="left" alt="Stack over flow" width="26px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
+    <img align="left" alt="Stack over flow" width="26px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
   </a>
   <a href="https://web.facebook.com/hamza.yousuf.14418/">
-    <img align="left" alt="facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
 <br>
 
