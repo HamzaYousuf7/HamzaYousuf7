@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Yousuf</h1>
+<h1 align="center">Hi 👋, I'm Alpha</h1>
 <h3 align="center">A self-taught programmer, love to code.</h3>
 
 
