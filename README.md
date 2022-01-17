@@ -11,7 +11,7 @@
 
 
 ### Connect with me:
-<a href="https://www.linkedin.cn/in/hamza-yousuf-a9a77a201/">
+<a href="https://www.linkedin.com/in/hamza-yousuf-01bb7722a/">
    <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="#">
