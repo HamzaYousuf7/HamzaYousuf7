@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
