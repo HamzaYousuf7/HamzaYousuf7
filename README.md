@@ -35,8 +35,6 @@
 <img align="left" alt="Angular" src="https://img.icons8.com/color/36/000000/angularjs.png"/>
 <img align="left" alt="Redux" src="https://img.icons8.com/color/36/000000/redux.png"/>
 <img align="left" alt="Node" src="https://img.icons8.com/color/36/000000/nodejs.png"/>
-<img align="left" alt="Java" src="https://icons8.com/icon/13679/java"/>
-<img align="left" alt="Spring boot" src="https://icons8.com/icon/90519/spring-boot"/>
 <img align="left" alt="express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
 <img align="left" alt="Git" src="https://img.icons8.com/color/36/000000/git.png"/>
 <img align="left" alt="GitHub" src="https://img.icons8.com/fluent/36/000000/github.png"/>
