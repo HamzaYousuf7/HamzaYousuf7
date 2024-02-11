@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on React and Spring Boot
+- 🔭 I’m currently working on React and .Net Core
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Microservices**
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
