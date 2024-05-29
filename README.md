@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpha</h1>
 <h3 align="center">A self-taught programmer, who love to code.</h3>
 
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 
 - 🔭 I’m currently working on React and .Net Core
@@ -44,5 +45,8 @@
 
 <br>
 <br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaYousuf7&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HamzaYousuf7" />
+</p>
 
 ![Hamza Yousuf Github Stats](https://github-readme-stats.vercel.app/api?username=HamzaYousuf7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
