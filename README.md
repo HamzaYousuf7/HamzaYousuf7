@@ -49,7 +49,6 @@
 
 <br>
 <br>
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaYousuf7&theme=dark" alt="HamzaYousuf7" />
