@@ -51,33 +51,35 @@
 </a>
 <br>
 
-### Languages and Tools:
-<img align="left" alt="HTML5" src="https://img.icons8.com/color/36/000000/html-5.png"/>
-<img align="left" alt="CSS3" src="https://img.icons8.com/color/36/000000/css3.png"/>
-<img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
-<img align="left" alt="TypeScript" src="https://img.icons8.com/color/36/000000/typescript.png"/>
-<img align="left" alt="React" src="https://img.icons8.com/plasticine/36/000000/react.png"/>
-<img align="left" alt="Angular" src="https://img.icons8.com/color/36/000000/angularjs.png"/>
-<img align="left" alt="Redux" src="https://img.icons8.com/color/36/000000/redux.png"/>
-<img align="left" alt="Node" src="https://img.icons8.com/color/36/000000/nodejs.png"/>
-<img align="left" alt="Express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
-<img align="left" alt="Git" src="https://img.icons8.com/color/36/000000/git.png"/>
-<img align="left" alt="GitHub" src="https://img.icons8.com/fluent/36/000000/github.png"/>
-<img align="left" alt="SQL" src="https://img.icons8.com/wired/36/000000/sql.png"/>
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
 
-<br>
-<br>
-<br>
-<br>
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaYousuf7&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="HamzaYousuf7" style="width: 48%; margin: 1%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaYousuf7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Hamza Yousuf Github Stats" style="width: 48%; margin: 1%;" />
-</div>
-
-<br>
-<br>
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+ 
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
+  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+ 
+  
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaYousuf7&theme=dark" alt="HamzaYousuf7" />
